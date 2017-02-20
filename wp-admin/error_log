@@ -1,0 +1,1 @@
+[14-Feb-2017 10:03:13 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/psimple/public_html/wp-includes/load.php on line 316
